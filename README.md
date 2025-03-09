@@ -5,7 +5,7 @@ FROM THIS 2022
 ![](screenshot.png)
 
 TO THIS 2025
-![screenshot-1741534313929](https://github.com/user-attachments/assets/82fe7ec4-4a4d-44da-a9b4-9e0ee8770307)
+![screenshot-1741534313929]([https://github.com/user-attachments/assets/82fe7ec4-4a4d-44da-a9b4-9e0ee8770307](https://app.leonardo.ai/))
 
 /
 /
