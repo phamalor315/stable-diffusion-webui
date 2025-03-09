@@ -1,7 +1,19 @@
 # Stable Diffusion web UI
 A web interface for Stable Diffusion, implemented using Gradio library.
 
+FROM THIS 2022
 ![](screenshot.png)
+
+TO THIS 2025
+![screenshot-1741534313929](https://github.com/user-attachments/assets/82fe7ec4-4a4d-44da-a9b4-9e0ee8770307)
+
+/
+/
+/
+/
+/
+/
+/
 
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
