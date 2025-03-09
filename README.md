@@ -5,7 +5,8 @@ FROM THIS 2022
 ![](screenshot.png)
 
 TO THIS 2025
-![screenshot-1741534313929]([[https://github.com/user-attachments/assets/82fe7ec4-4a4d-44da-a9b4-9e0ee8770307]])
+![(![screenshot-1741534313929](https://github.com/user-attachments/assets/056472dd-5009-4c71-a266-2227db45842e)
+)
 
 /
 /
@@ -16,7 +17,7 @@ TO THIS 2025
 /
 
 ## Features
-[Detailed feature showcase with images]((https://app.leonardo.ai/)):
+[Detailed feature showcase with images](https://app.leonardo.ai/):
 - Original txt2img and img2img modes
 - One click install and run script (but you still must install python and git)
 - Outpainting
