@@ -5,7 +5,7 @@ FROM THIS 2022
 ![](screenshot.png)
 
 TO THIS 2025
-![(![screenshot-1741534313929](https://github.com/user-attachments/assets/056472dd-5009-4c71-a266-2227db45842e)
+![screenshot-1741534313929](https://github.com/user-attachments/assets/056472dd-5009-4c71-a266-2227db45842e
 )
 
 /
