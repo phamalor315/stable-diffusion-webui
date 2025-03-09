@@ -16,7 +16,7 @@ TO THIS 2025
 /
 
 ## Features
-[Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
+[Detailed feature showcase with images]((https://app.leonardo.ai/)):
 - Original txt2img and img2img modes
 - One click install and run script (but you still must install python and git)
 - Outpainting
